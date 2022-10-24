@@ -1,8 +1,8 @@
-# primeir-repositorio
+# primeiro-repositorio
 
-Para opiar o código em HTML:
+Para copiar o código em HTML:
 ...
 <html>
-   <h1>Neuprmeiro arqivo HTML/h1>
+   <h1>Meuprmeiro arquivo HTML/h1>
      </html1>
   ...
